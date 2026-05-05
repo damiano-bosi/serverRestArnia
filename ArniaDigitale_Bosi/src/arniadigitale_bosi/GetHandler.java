@@ -33,9 +33,9 @@ public class GetHandler implements HttpHandler {
 
         if ("GET".equals(exchange.getRequestMethod())) {
             try {
-               // List<ArniaResponse> arnie = arniaService.getTutteLeArnie();
-                ArniaResponse arnia = new ArniaResponse(1,"2024-05-14",true,"A1:B2:C3:D4:E5:F6",5,"Dati caricati con successo");
-                String jsonResponse = gson.toJson(arnia);
+               // 1. Recupera la lista reale dal database tramite il servizio
+                List<ArniaResponse> arnie = arniaService.getTutteLeArnie(); 
+                String jsonResponse = gson.toJson(arnie); 
                 exchange.getResponseHeaders().set("Content-Type", "application/json");
                 exchange.sendResponseHeaders(200, jsonResponse.getBytes().length);
                 OutputStream os = exchange.getResponseBody();

@@ -3,12 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/bosi.damiano/Documents/NetBeansProjects/ArniaDigitale_Bosi/src/arniadigitale_bosi/ArniaDigitale_Bosi.java</file>
-            <file>file:/C:/Users/bosi.damiano/Documents/NetBeansProjects/ArniaDigitale_Bosi/src/arniadigitale_bosi/ServerRest.java</file>
-            <file>file:/C:/Users/bosi.damiano/Documents/NetBeansProjects/ArniaDigitale_Bosi/src/arniadigitale_bosi/GetHandler.java</file>
-            <file>file:/C:/Users/bosi.damiano/Documents/NetBeansProjects/ArniaDigitale_Bosi/src/arniadigitale_bosi/ArniaService.java</file>
-            <file>file:/C:/Users/bosi.damiano/Documents/NetBeansProjects/ArniaDigitale_Bosi/src/arniadigitale_bosi/PostHandler.java</file>
-            <file>file:/C:/Users/bosi.damiano/Documents/NetBeansProjects/ArniaDigitale_Bosi/src/arniadigitale_bosi/ArniaResponse.java</file>
+            <file>file:/C:/Users/bosi.damiano/Documents/GitHub/serverRestArnia/ArniaDigitale_Bosi/src/arniadigitale_bosi/ArniaDigitale_Bosi.java</file>
+            <file>file:/C:/Users/bosi.damiano/Documents/GitHub/serverRestArnia/ArniaDigitale_Bosi/src/arniadigitale_bosi/ArniaRequest.java</file>
+            <file>file:/C:/Users/bosi.damiano/Documents/GitHub/serverRestArnia/ArniaDigitale_Bosi/src/arniadigitale_bosi/ArniaResponse.java</file>
+            <file>file:/C:/Users/bosi.damiano/Documents/GitHub/serverRestArnia/ArniaDigitale_Bosi/src/arniadigitale_bosi/ArniaService.java</file>
+            <file>file:/C:/Users/bosi.damiano/Documents/GitHub/serverRestArnia/ArniaDigitale_Bosi/src/arniadigitale_bosi/GetHandler.java</file>
+            <file>file:/C:/Users/bosi.damiano/Documents/GitHub/serverRestArnia/ArniaDigitale_Bosi/src/arniadigitale_bosi/ServerRest.java</file>
+            <file>file:/C:/Users/bosi.damiano/Documents/GitHub/serverRestArnia/ArniaDigitale_Bosi/src/arniadigitale_bosi/PostHandler.java</file>
         </group>
     </open-files>
 </project-private>
